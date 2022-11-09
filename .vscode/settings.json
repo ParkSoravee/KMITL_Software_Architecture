@@ -2,7 +2,7 @@
   "java.project.sourcePaths": [
     "The SOLID Principles/lsp",
     "The SOLID Principles/book",
-    "Structural Design Patterns"
+    "Structural Design Patterns/structural"
   ],
   "java.project.referencedLibraries": [
     "lib/**/*.jar",
