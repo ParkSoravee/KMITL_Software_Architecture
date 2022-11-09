@@ -2,7 +2,7 @@
   "java.project.sourcePaths": [
     "The SOLID Principles/lsp",
     "The SOLID Principles/book",
-    "Behavioral Design Patterns"
+    "Structural Design Patterns"
   ],
   "java.project.referencedLibraries": [
     "lib/**/*.jar",
